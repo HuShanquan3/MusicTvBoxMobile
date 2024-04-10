@@ -42,12 +42,14 @@ musicfree是采用React Native开发的，直接合入到tvboxos-mobile很困难
 五、接口使用
 
 新增音乐平台爬虫插件是在原有的tvbox标准接口中添加了一个"music"字段，对影视爬虫接口无影响。
+
 建议调试python爬虫，我这边测试也全部是Python写的，毕竟没有什么语言比Python写爬虫更快，更短。
 
 
 音乐爬虫主要实现下面四个接口(可参考仓库中的py_fangpi.py，也可以参考musicfree接口文档，和其类似):
+===》如果不想实现，可以直接看《六、快速使用》。
 
-歌曲搜索接口:search(query, page, type)
+1、歌曲搜索接口:search(query, page, type)
 
 query: 搜索关键字
 
@@ -55,7 +57,7 @@ page: 搜索起始页码，暂未使用
 
 type: 搜索类型，单曲，专辑，歌手，歌单
 
-歌曲播放源接口:getMediaSource(id, ext, quality)
+2、歌曲播放源接口:getMediaSource(id, ext, quality)
 
 id: 歌曲id
 
@@ -63,13 +65,13 @@ ext: 歌曲扩展字段
 
 quality: 歌曲音质
 
-歌词获取接口:getLyric(id, ext)
+3、歌词获取接口:getLyric(id, ext)
 
 id: 歌曲id
 
 ext: 歌曲扩展字段
 
-歌单导入接口:importMusicSheet(urlLike)
+4、歌单导入接口:importMusicSheet(urlLike)
 
 urlLike: 歌单分享地址
 
@@ -116,3 +118,19 @@ urlLike: 歌单分享地址
 "lives": [ {xxx}]
 
 }
+
+六、快速使用
+
+下面使用raw.liucn.cc/box/m.json库修改的，已经适配了音乐平台，导入app的订阅源即可使用。
+https://gcore.jsdelivr.net/gh/HuShanquan3/box2/m.json
+
+Enjoy movies and music！！！！！！
+
+
+参考:
+
+1、https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile
+
+2、https://github.com/maotoumao/MusicFree
+
+3、https://github.com/maotoumao/MusicFreePlugins
