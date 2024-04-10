@@ -122,7 +122,7 @@ urlLike: 歌单分享地址
 六、快速使用
 
 下面使用raw.liucn.cc/box/m.json库修改的，已经适配了音乐平台，导入app的订阅源即可使用。
-https://gcore.jsdelivr.net/gh/HuShanquan3/box2/m.json
+https://gcore.jsdelivr.net/gh/HuShanquan3/box2/m4.json
 
 Enjoy movies and music！！！！！！
 
