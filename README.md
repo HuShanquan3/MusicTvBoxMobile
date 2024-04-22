@@ -126,6 +126,9 @@ https://gcore.jsdelivr.net/gh/HuShanquan3/box2/m4.json
 
 Enjoy movies and music！！！！！！
 
+七、APP下载地址
+
+下载:https://www.lanzouw.com/icTzq1ulrmkh 密码:dpdt
 
 参考:
 
