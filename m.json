@@ -1,47 +1,17 @@
 //以下内容为互联网收集，只为自用。
 {
 	"music": [
-        {
-			"key": "py_music_netease",
-			"name":"网易音乐",
-			"url":"file:///storage/emulated/0/plugin/py_netease.py",
+		{
+		  "key": "py_music_fangpi",
+		  "name":"放屁音乐",
+		  "url":"https://gcore.jsdelivr.net/gh/HuShanquan3/MusicTvBoxMobile/py_fangpi.py",
+		  "version":"0.1.0"
+		},
+		{
+			"key": "js_music_migu",
+			"name":"米骨音乐",
+			"url":"https://gcore.jsdelivr.net/gh/HuShanquan3/MusicTvBoxMobile/my_migu.js",
 			"version":"0.1.7"
-		},
-		{
-			"key": "py_music_kuwo",
-			"name":"酷我音乐",
-			"url":"file:///storage/emulated/0/plugin/py_kuwo.py",
-			"version":"0.1.7"
-		},
-		{
-			"key": "py_music_fangpi",
-			"name":"放屁音乐",
-			"url":"file:///storage/emulated/0/plugin/py_fangpi.py",
-			"version":"0.1.0"
-		},
-		{
-			"key": "py_music_cckv",
-			"name":"CCKV音乐",
-			"url":"file:///storage/emulated/0/plugin/py_cckv.py",
-			"version":"0.0.1"
-		},
-		{
-			"key": "music_5sing",
-			"name":"5Sing音乐",
-			"url":"https://gitee.com/misrhu/hsqweb/raw/main/netease/5sing.js",
-			"version":"0.2.2"
-		},
-		{
-			"key": "music_kugou",
-			"name":"酷狗音乐",
-			"url":"https://gitee.com/misrhu/hsqweb/raw/main/netease/kugou.js",
-			"version":"0.1.5"
-		},
-		{
-			"key": "py_music_audiomack",
-			"name":"Audiomack",
-			"url":"file:///storage/emulated/0/plugin/py_audiomack.py",
-			"version":"0.0.2"
 		}
 	],
   "spider": "./fty.jar;md5;602fb3226d777850053484cdeb2f3296",

@@ -159,7 +159,6 @@ APP音乐界面
 ![动效](imgaes/Screenshot_2024-06-22-16-10-10-659_com.github.tvbox.osc.jpg)
 ![动效](imgaes/Screenshot_2024-06-22-16-10-01-517_com.github.tvbox.osc.jpg)
 ![动效](imgaes/Screenshot_2024-06-22-16-10-21-058_com.github.tvbox.osc.jpg)
-![动效](imgaes/Screenshot_2024-06-22-16-10-28-421_com.github.tvbox.osc.jpg)
 ![动效](imgaes/Screenshot_2024-06-22-16-10-48-682_com.github.tvbox.osc.jpg)
 
 动效设置
@@ -172,7 +171,7 @@ APP音乐界面
 
 歌曲详情
 
-![歌曲详情](imgaes/Screenshot_2024-06-22-16-11-01-612_com.github.tvbox.osc.jpg)
+![歌曲详情](imgaes/Screenshot_2024-06-22-16-11-05-906_com.github.tvbox.osc.jpg)
 
 榜单
 
@@ -180,11 +179,7 @@ APP音乐界面
 
 歌单广场
 
-![歌单广场](imgaes/Screenshot_2024-06-22-16-11-31-441_com.github.tvbox.osc.jpg)
-
-导入歌单
-
-![导入歌单](imgaes/Screenshot_2024-06-22-16-11-56-368_com.github.tvbox.osc.jpg)
+![歌单广场](imgaes/Screenshot_2024-06-22-16-11-39-776_com.github.tvbox.osc.jpg)
 
 歌单详情
 
