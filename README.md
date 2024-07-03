@@ -142,44 +142,13 @@ Enjoy movies and music！！！！！！
 
 七、APP截图
 
-APP影视界面
-
-![APP影视界面](imgaes/Screenshot_2024-06-22-16-06-50-474_com.github.tvbox.osc.jpg)
-
 APP音乐界面
 
 ![APP音乐界面](imgaes/Screenshot_2024-06-22-16-07-18-732_com.github.tvbox.osc.jpg)
 
-搜索界面
-
-![搜索界面](imgaes/Screenshot_2024-06-22-16-08-09-018_com.github.tvbox.osc.jpg)
-
-动效
-
-![动效](imgaes/Screenshot_2024-06-22-16-10-10-659_com.github.tvbox.osc.jpg)
-![动效](imgaes/Screenshot_2024-06-22-16-10-01-517_com.github.tvbox.osc.jpg)
-![动效](imgaes/Screenshot_2024-06-22-16-10-21-058_com.github.tvbox.osc.jpg)
-![动效](imgaes/Screenshot_2024-06-22-16-10-48-682_com.github.tvbox.osc.jpg)
-
-动效设置
-
-![动效设置](imgaes/Screenshot_2024-06-22-16-10-58-526_com.github.tvbox.osc.jpg)
-
 音效设置
 
 ![音效设置](imgaes/Screenshot_2024-06-22-16-11-01-612_com.github.tvbox.osc.jpg)
-
-歌曲详情
-
-![歌曲详情](imgaes/Screenshot_2024-06-22-16-11-05-906_com.github.tvbox.osc.jpg)
-
-榜单
-
-![榜单](imgaes/Screenshot_2024-06-22-16-11-31-441_com.github.tvbox.osc.jpg)
-
-歌单广场
-
-![歌单广场](imgaes/Screenshot_2024-06-22-16-11-39-776_com.github.tvbox.osc.jpg)
 
 歌单详情
 
